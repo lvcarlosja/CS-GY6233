@@ -14,7 +14,7 @@
      */
 
 // The pound sign below is a "pre-processor" directive. Tells the compiler to do something before
-// compliing the source code. Here, the program is calling a header file. stdio.h is the standard
+// compliing the source code. Here, the program is calling a header file. stdio.h in the standard
 // C library header and provides functionality for displaying output.
 #include <stdio.h>
 #include <string.h>
