@@ -1,6 +1,6 @@
     /*********************************************************************************************
      * 
-     * Author: Carlos Almeyda
+     * Author: C. A.
      * 
      * Purpose: Write a program for determining if a year is a leap year. In the Gregorian calendar
      * system you can check if it is a leap year if it is divisible by 4 but not by 100 
